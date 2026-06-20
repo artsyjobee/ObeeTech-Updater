@@ -1,0 +1,21 @@
+{
+    "product": "ObeeTech Timer",
+    "latest_version": "4.11.1",
+    "build": "20260620",
+    "channel": "Stable",
+    "release_date": "2026-06-20",
+
+    "package_name": "ObeeTech_Timer_4.11.1.zip",
+
+    "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.1/ObeeTech_Timer_4.11.1.zip",
+
+    "banner_url": "https://drive.google.com/thumbnail?id=15sk65LzX-YeDMBk_RbFTwjsBoHaeb-Aq&sz=w1600",
+
+    "force_update": false,
+
+    "changelog": [
+        "Added ObeeLauncher Update System",
+        "Added version.json support",
+        "Prepared Google Drive Update Server"
+    ]
+}
