@@ -9,7 +9,7 @@
 
     "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.1/ObeeTech.Timer.4.11.1.zip",
 
-    "banner_url": "https://github.com/artsyjobee/ObeeTech-Updater/blob/main/banner.png",
+    "banner_url": "https://raw.githubusercontent.com/artsyjobee/ObeeTech-Updater/main/banner.png",
 
     "force_update": false,
 
