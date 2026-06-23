@@ -14,30 +14,11 @@
     "force_update": false,
 
     "changelog": [
-        "Added ObeeUpdater Update System",
-        "Added version.json support",
-
-        "Prepared Github Update Server",
-        "🚀 ObeeTech Timer v4.11.1",
-
-        "✨ New Features",
-        "• Added ObeeTech Launcher",
-        "• Added Online Update System",
-        "• Added Smart Version Verification",
-        "• Added GitHub Release Support",
-        "• Added Update Progress Indicator",
-
         "🛠 Improvements",
-        "• Improved update stability",
-        "• Improved launcher interface",
-        "• Improved update checking speed",
+        "• Improved admin System Status stability",
+        "• Improved Admin panel interface",
+        "• Improved update checking",
         "• Improved package validation",
-
-        "🐞 Bug Fixes",
-        "• Fixed download issues",
-        "• Fixed extraction issues",
-        "• Fixed verification process",
-        "• General performance improvements",
 
         "© 2026 OBEETECH",
         "Developed by Jobert Simbajon"
