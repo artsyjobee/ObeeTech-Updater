@@ -1,13 +1,13 @@
 {
     "product": "ObeeTech Timer",
-    "latest_version": "4.11.1",
+    "latest_version": "4.11.2",
     "build": "20260623",
     "channel": "Stable",
-    "release_date": "2026-06-23",
+    "release_date": "2026-06-30",
 
-    "package_name": "Obeetech_4.11.1.zip",
+    "package_name": "obeetech_timer_v4.11.2.zip",
 
-    "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.1/Obeetech_4.11.1.zip",
+    "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.1/obeetech_timer_v4.11.2.zip",
 
     "banner_url": "https://raw.githubusercontent.com/artsyjobee/ObeeTech-Updater/main/banner.png",
 
@@ -15,10 +15,10 @@
 
     "changelog": [
         "🛠 Improvements",
-        "• Improved admin System Status",
-        "• Add Check Update and update Button at System Status panel",
-        "• Improved update checking",
-        "• Improved package validation",
+        "• Improved Timer from Freezing",
+        "• Fix Timer and make it not draggable",
+        "• Improved timer security",
+        "• timer minimized from taskbar to system tray",
 
         "© 2026 OBEETECH",
         "Developed by Jobert Simbajon"
