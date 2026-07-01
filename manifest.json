@@ -5,8 +5,8 @@
     "release_date": "2026-07-02",
     "package_name": "ObeeTech_Updater_4.11.3.zip",
     "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.3/ObeeTech_Updater_4.11.3.zip",
-    "sha256": "e6872b27eedd11214fae9ddda1f083bddeb121fad9d7d513e7b1dd4183911c63",
-    "size_bytes": 90786226,
+    "sha256": "0c03d9dcef0939337a671ec193f827028a4657279fa447221c36996c9de84cfb",
+    "size_bytes": 65011787,
     "force_update": false,
     "changelog": [
         "Improved updater stability",
