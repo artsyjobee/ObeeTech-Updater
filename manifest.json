@@ -1,26 +1,22 @@
 {
-    "product": "ObeeTech Timer",
-    "latest_version": "4.11.2",
-    "build": "20260623",
+    "latest_version": "4.11.3",
+    "build": "20260701",
     "channel": "Stable",
-    "release_date": "2026-06-30",
-
-    "package_name": "obeetech_timer_v4.11.2.zip",
-
-    "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/obeetech_timer_v4.11.2/obeetech_timer_v4.11.2.zip",
-
-    "banner_url": "https://raw.githubusercontent.com/artsyjobee/ObeeTech-Updater/main/banner.png",
-
+    "release_date": "2026-07-01",
+    "package_name": "ObeeTech_Updater_4.11.3.zip",
+    "download_url": "",
+    "sha256": "62b1d5e257b20b8eaefaeb7d2de779a7db9006be1e281fd8c3e65aeb255af972",
+    "size_bytes": 5225428,
     "force_update": false,
-
     "changelog": [
-        "🛠 Improvements",
-        "• Improved Timer from Freezing",
-        "• Fix Timer and make it not draggable",
-        "• Improved timer security",
-        "• timer minimized from taskbar to system tray",
-
-        "© 2026 OBEETECH",
-        "Developed by Jobert Simbajon"
-    ]
+        "Improved updater stability",
+        "Added self-update package support",
+        "Improved admin wrong password notification",
+        "Improve telegram commands",
+        "Improve Telegram multi pc status"
+    ],
+    "news": {
+        "title": "ObeeUpdater New Release",
+        "message": "This update improves the launcher and updater system."
+    }
 }
