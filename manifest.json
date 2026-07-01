@@ -5,17 +5,18 @@
     "release_date": "2026-07-01",
     "package_name": "ObeeTech_Updater_4.11.3.zip",
     "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.3/ObeeTech_Updater_4.11.3.zip",
-    "sha256": "3a8d440227b9a0269eb91e755121fe5fd5b58174a942963ea4e02e3bd0e63fa0",
-    "size_bytes": 5225428,
+    "sha256": "05bc1aec6e966e959c09ace0ec3dbf1772cafa87e98bc1d0e45187597828ba6f",
+    "size_bytes": 90785254,
     "force_update": false,
     "changelog": [
         "Improved updater stability",
         "Added self-update package support",
         "Improved updater stability",
         "Added self-update package support",
+        "Improved updater stability",
+        "Added self-update package support",
         "Improved admin wrong password notification",
-        "Improve telegram commands",
-        "Improve Telegram multi pc status"
+        "Improve telegram commands"
     ],
     "news": {
         "title": "ObeeUpdater New Release",
