@@ -5,8 +5,8 @@
     "release_date": "2026-07-02",
     "package_name": "ObeeTech_Updater_4.11.4.zip",
     "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.4/ObeeTech_Updater_4.11.4.zip",
-    "sha256": "06350770f32763f1ba5ee8fc9e654f29fe0767a6c7ba28c93be1a20d5256980e",
-    "size_bytes": 90786521,
+    "sha256": "4f94c4bffb38bf3a1ded910dd87f85118f4f643b36b589ea1847143c7d11e71d",
+    "size_bytes": 90787708,
     "force_update": false,
     "changelog": [
         "Improve Telegram commans and function",
