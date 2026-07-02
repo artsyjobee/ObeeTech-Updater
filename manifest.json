@@ -1,16 +1,17 @@
 {
-    "latest_version": "4.11.3",
+    "latest_version": "4.11.4",
     "build": "20260702",
     "channel": "Stable",
     "release_date": "2026-07-02",
-    "package_name": "ObeeTech_Updater_4.11.3.zip",
-    "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.3/ObeeTech_Updater_4.11.3.zip",
-    "sha256": "0c03d9dcef0939337a671ec193f827028a4657279fa447221c36996c9de84cfb",
-    "size_bytes": 65011787,
+    "package_name": "ObeeTech_Updater_4.11.4.zip",
+    "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.4/ObeeTech_Updater_4.11.4.zip",
+    "sha256": "67a9c8135087af43405b519bf9743e5eeca1fdc3590dc0529cb6f77069e39163",
+    "size_bytes": 90790682,
     "force_update": false,
     "changelog": [
-        "Improved updater stability",
-        "Added self-update package support"
+        "Improve Telegram commans and function",
+        "Improve Updater Functions",
+        "Improve telegram menu functions"
     ],
     "news": {
         "title": "ObeeUpdater New Release",
