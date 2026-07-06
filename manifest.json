@@ -1,19 +1,18 @@
 {
     "latest_version": "4.11.4",
-    "build": "20260706",
+    "build": "20260707",
     "channel": "Stable",
-    "release_date": "2026-07-06",
+    "release_date": "2026-07-07",
     "package_name": "ObeeTech_Updater_4.11.4.zip",
     "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.4/ObeeTech_Updater_4.11.4.zip",
-    "sha256": "f8e7820fc59d95b55fe27190f1d685a07ce03a71b1c9c05f08a0f983b4922c4a",
-    "size_bytes": 92302207,
+    "sha256": "a2a09b11e5a77e54303762b4f1eb81e2e1de8df2e1edd21abc2830f46ef60a08",
+    "size_bytes": 92304245,
     "force_update": false,
     "changelog": [
         "Improved Timer stability",
-        "Improve Telegram cloud communication",
-        "Improve cloud notifications",
-        "Upgrade Voucher into cloud version",
-        "Upgrade AdminPanel functions"
+        "Improve telegram notification",
+        "Update AdminPanel features",
+        "Improve timer Features"
     ],
     "news": {
         "title": "ObeeUpdater New Release",
