@@ -1,17 +1,18 @@
 {
     "latest_version": "4.11.4",
-    "build": "20260702",
+    "build": "20260706",
     "channel": "Stable",
-    "release_date": "2026-07-02",
+    "release_date": "2026-07-06",
     "package_name": "ObeeTech_Updater_4.11.4.zip",
     "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.4/ObeeTech_Updater_4.11.4.zip",
-    "sha256": "4f94c4bffb38bf3a1ded910dd87f85118f4f643b36b589ea1847143c7d11e71d",
-    "size_bytes": 90787708,
+    "sha256": "10746ad9fd179478d36fb196347dcd012d954e84fac56b133493b6813edbfc2a",
+    "size_bytes": 92302408,
     "force_update": false,
     "changelog": [
-        "Improve Telegram commans and function",
-        "Improve Updater Functions",
-        "Improve telegram menu functions"
+        "Improved timer stability",
+        "Improve Telegram stability",
+        "Improve Adminpanel functions",
+        "Migrate timer system to cloud"
     ],
     "news": {
         "title": "ObeeUpdater New Release",
