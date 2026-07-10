@@ -1,16 +1,15 @@
 {
     "latest_version": "4.11.5",
-    "build": "20260709",
+    "build": "20260710",
     "channel": "Stable",
-    "release_date": "2026-07-09",
+    "release_date": "2026-07-10",
     "package_name": "ObeeTech_Updater_4.11.5.zip",
     "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.5/ObeeTech_Updater_4.11.5.zip",
-    "sha256": "b6f3fc85a73607ec0246e3640aec7b4e7d1e76327c561d686b1849c7d7556fdd",
-    "size_bytes": 92305652,
+    "sha256": "23cb6670b0a5f34edda38525bec88d6d772e78bb5f684ea435c85788a69aef91",
+    "size_bytes": 92307613,
     "force_update": false,
     "changelog": [
-        "Improved updater stability",
-        "Added self-update package support"
+        "Improved Pc timer Screenlock stability"
     ],
     "news": {
         "title": "ObeeUpdater New Release",
