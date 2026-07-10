@@ -5,8 +5,8 @@
     "release_date": "2026-07-10",
     "package_name": "ObeeTech_Updater_4.11.5.zip",
     "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.5/ObeeTech_Updater_4.11.5.zip",
-    "sha256": "23cb6670b0a5f34edda38525bec88d6d772e78bb5f684ea435c85788a69aef91",
-    "size_bytes": 92307613,
+    "sha256": "c9de01a505baca710fbd7af4b87ecd08cd6a0a9a0ee6cd84684c7b699d670479",
+    "size_bytes": 66529869,
     "force_update": false,
     "changelog": [
         "Improved Pc timer Screenlock stability"
