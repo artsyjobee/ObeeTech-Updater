@@ -1,18 +1,17 @@
 {
     "latest_version": "4.11.5",
-    "build": "20260710",
+    "build": "20260711",
     "channel": "Stable",
-    "release_date": "2026-07-10",
+    "release_date": "2026-07-11",
     "package_name": "ObeeTech_Updater_4.11.5.zip",
     "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.5/ObeeTech_Updater_4.11.5.zip",
-    "sha256": "88f2ed5733d0e9619c13b1c18384ef249d5623f377766e447519224b4dccc325",
-    "size_bytes": 66532214,
+    "sha256": "172e23d83977b29be0766b21a2ebdad703f34b70f682b962bcca73d2c5215c0d",
+    "size_bytes": 77969474,
     "force_update": false,
     "changelog": [
-        "Improved Pc Timer Stability",
-        "Update AdminPanel",
-        "Improve Admin Panel Functions",
-        "Improve Timer Consistency"
+        "Improved updater stability",
+        "Upgrade Updater",
+        "Update admin updater"
     ],
     "news": {
         "title": "ObeeUpdater New Release",
