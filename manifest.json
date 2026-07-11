@@ -1,24 +1,35 @@
 {
-    "latest_version": "4.11.5",
+    "schema_version": 1,
+    "manifest_version": "1.0",
+    "release_id": "REL-20260711-223113",
+    "product": "obeetech_timer",
+    "product_name": "ObeeTech PC Timer",
+    "version": "4.11.6",
     "build": "20260711",
-    "channel": "Stable",
-    "release_date": "2026-07-11",
-    "package_name": "ObeeTech_Updater_4.11.5.zip",
-    "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.5/ObeeTech_Updater_4.11.5.zip",
-    "sha256": "437c995ab7c8c269d38544c5b85518804b0996198b8c55e18679a515fe2cec3a",
-    "size_bytes": 77974557,
+    "channel": "stable",
+    "status": "repository_ready",
     "force_update": false,
-    "changelog": [
-        "Improved updater stability",
-        "Upgrade Adminpanel updater button",
-        "Migrate adminpanel assets manager",
-        "Improve pc timer screenlock effect",
-        "Upgrade pc timer to use cloud management",
-        "Improve screenlock stability",
-        "fixed freezing voucher input"
-    ],
-    "news": {
-        "title": "ObeeUpdater New Release",
-        "message": "This update improves the launcher and updater system."
-    }
+    "release_notes": "test langsa dili pani final",
+    "repository": {
+        "relative_path": "timer/4.11.6",
+        "created_at": "2026-07-11 22:31:13"
+    },
+    "package": {
+        "file_name": "package.obpkg",
+        "relative_path": "package.obpkg",
+        "size_bytes": 127565598,
+        "sha256": "2bae4d013e594fd74c0e38344cd6fc90363fdca189ef3226cf2348bf1411424d"
+    },
+    "installer": {
+        "file_name": "ObeeTech PC Timer.exe",
+        "relative_path": "ObeeTech PC Timer.exe",
+        "size_bytes": 157040061,
+        "sha256": "12881b3b41e47f07b6268ba201caeb81b3ea6cf4ab6b80fcfefb2020fc5b3130"
+    },
+    "publish": {
+        "repository": true,
+        "firebase": false,
+        "website": false
+    },
+    "created_at": "2026-07-11 22:31:13"
 }
