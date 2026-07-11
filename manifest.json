@@ -1,7 +1,7 @@
 {
     "schema_version": 1,
     "manifest_version": "1.0",
-    "release_id": "REL-20260711-223113",
+    "release_id": "REL-20260711-230008",
     "product": "obeetech_timer",
     "product_name": "ObeeTech PC Timer",
     "version": "4.11.6",
@@ -9,27 +9,27 @@
     "channel": "stable",
     "status": "repository_ready",
     "force_update": false,
-    "release_notes": "test langsa dili pani final",
+    "release_notes": "mao ni another try napud taman mo success",
     "repository": {
         "relative_path": "timer/4.11.6",
-        "created_at": "2026-07-11 22:31:13"
+        "created_at": "2026-07-11 23:00:08"
     },
     "package": {
         "file_name": "package.obpkg",
         "relative_path": "package.obpkg",
-        "size_bytes": 127565598,
-        "sha256": "2bae4d013e594fd74c0e38344cd6fc90363fdca189ef3226cf2348bf1411424d"
+        "size_bytes": 127565597,
+        "sha256": "577ffd95897706539442b1376a3ffe223c8656b32542f7840c70c48d73a8ac8a"
     },
     "installer": {
-        "file_name": "ObeeTech PC Timer.exe",
-        "relative_path": "ObeeTech PC Timer.exe",
-        "size_bytes": 157040061,
-        "sha256": "12881b3b41e47f07b6268ba201caeb81b3ea6cf4ab6b80fcfefb2020fc5b3130"
+        "file_name": "ObeeTechPCTimer.exe",
+        "relative_path": "ObeeTechPCTimer.exe",
+        "size_bytes": 157041635,
+        "sha256": "d4ea83b728512dc1713d21e9e64a839e16d48f750db02f679ce42494c89b609c"
     },
     "publish": {
         "repository": true,
         "firebase": false,
         "website": false
     },
-    "created_at": "2026-07-11 22:31:13"
+    "created_at": "2026-07-11 23:00:08"
 }
