@@ -1,44 +1,35 @@
 {
     "schema_version": 1,
     "manifest_version": "1.0",
-    "release_id": "REL-20260711-230008",
+    "release_id": "REL-20260711-232223",
     "product": "obeetech_timer",
     "product_name": "ObeeTech PC Timer",
     "version": "4.11.6",
     "build": "20260711",
     "channel": "stable",
-    "status": "github_published",
+    "status": "repository_ready",
     "force_update": false,
-    "release_notes": "mao ni another try napud taman mo success",
+    "release_notes": "mao nani final",
     "repository": {
         "relative_path": "timer/4.11.6",
-        "created_at": "2026-07-11 23:00:08"
+        "created_at": "2026-07-11 23:22:23"
     },
     "package": {
         "file_name": "package.obpkg",
         "relative_path": "package.obpkg",
-        "size_bytes": 127565597,
-        "sha256": "577ffd95897706539442b1376a3ffe223c8656b32542f7840c70c48d73a8ac8a",
-        "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.6/package.obpkg"
+        "size_bytes": 127565598,
+        "sha256": "b87e2e8eae19bb4af06ec44878c95b6f47fd5284ac4a4398b96f6ef729934ae2"
     },
     "installer": {
         "file_name": "ObeeTechPCTimer.exe",
         "relative_path": "ObeeTechPCTimer.exe",
-        "size_bytes": 157041635,
-        "sha256": "d4ea83b728512dc1713d21e9e64a839e16d48f750db02f679ce42494c89b609c",
-        "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.6/ObeeTechPCTimer.exe"
+        "size_bytes": 157042318,
+        "sha256": "a4433009d974b57ba2d6274d1960d32debc332079afe5825e652d314c23f36b9"
     },
     "publish": {
         "repository": true,
         "firebase": false,
-        "website": false,
-        "github": true
+        "website": false
     },
-    "created_at": "2026-07-11 23:00:08",
-    "github": {
-        "repository": "artsyjobee/ObeeTech-Updater",
-        "tag": "v4.11.6",
-        "release_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/tag/v4.11.6",
-        "published_at": "2026-07-11 23:07:58"
-    }
+    "created_at": "2026-07-11 23:22:23"
 }
