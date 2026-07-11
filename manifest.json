@@ -7,7 +7,7 @@
     "version": "4.11.6",
     "build": "20260711",
     "channel": "stable",
-    "status": "repository_ready",
+    "status": "github_published",
     "force_update": false,
     "release_notes": "mao ni another try napud taman mo success",
     "repository": {
@@ -18,18 +18,27 @@
         "file_name": "package.obpkg",
         "relative_path": "package.obpkg",
         "size_bytes": 127565597,
-        "sha256": "577ffd95897706539442b1376a3ffe223c8656b32542f7840c70c48d73a8ac8a"
+        "sha256": "577ffd95897706539442b1376a3ffe223c8656b32542f7840c70c48d73a8ac8a",
+        "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.6/package.obpkg"
     },
     "installer": {
         "file_name": "ObeeTechPCTimer.exe",
         "relative_path": "ObeeTechPCTimer.exe",
         "size_bytes": 157041635,
-        "sha256": "d4ea83b728512dc1713d21e9e64a839e16d48f750db02f679ce42494c89b609c"
+        "sha256": "d4ea83b728512dc1713d21e9e64a839e16d48f750db02f679ce42494c89b609c",
+        "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.6/ObeeTechPCTimer.exe"
     },
     "publish": {
         "repository": true,
         "firebase": false,
-        "website": false
+        "website": false,
+        "github": true
     },
-    "created_at": "2026-07-11 23:00:08"
+    "created_at": "2026-07-11 23:00:08",
+    "github": {
+        "repository": "artsyjobee/ObeeTech-Updater",
+        "tag": "v4.11.6",
+        "release_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/tag/v4.11.6",
+        "published_at": "2026-07-11 23:07:58"
+    }
 }
