@@ -5,13 +5,17 @@
     "release_date": "2026-07-11",
     "package_name": "ObeeTech_Updater_4.11.5.zip",
     "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.5/ObeeTech_Updater_4.11.5.zip",
-    "sha256": "172e23d83977b29be0766b21a2ebdad703f34b70f682b962bcca73d2c5215c0d",
-    "size_bytes": 77969474,
+    "sha256": "437c995ab7c8c269d38544c5b85518804b0996198b8c55e18679a515fe2cec3a",
+    "size_bytes": 77974557,
     "force_update": false,
     "changelog": [
         "Improved updater stability",
-        "Upgrade Updater",
-        "Update admin updater"
+        "Upgrade Adminpanel updater button",
+        "Migrate adminpanel assets manager",
+        "Improve pc timer screenlock effect",
+        "Upgrade pc timer to use cloud management",
+        "Improve screenlock stability",
+        "fixed freezing voucher input"
     ],
     "news": {
         "title": "ObeeUpdater New Release",
