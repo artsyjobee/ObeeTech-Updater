@@ -1,7 +1,7 @@
 {
     "schema_version": 1,
     "manifest_version": "1.0",
-    "release_id": "REL-20260712-193006",
+    "release_id": "REL-20260712-193935",
     "product": "obeetech_timer",
     "product_name": "ObeeTech PC Timer",
     "version": "4.11.7",
@@ -12,7 +12,7 @@
     "release_notes": "",
     "repository": {
         "relative_path": "timer/4.11.7",
-        "created_at": "2026-07-12 19:30:06"
+        "created_at": "2026-07-12 19:39:35"
     },
     "package": {
         "file_name": "package.obpkg",
@@ -31,5 +31,5 @@
         "firebase": false,
         "website": false
     },
-    "created_at": "2026-07-12 19:30:06"
+    "created_at": "2026-07-12 19:39:35"
 }
