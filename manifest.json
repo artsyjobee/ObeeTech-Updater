@@ -1,18 +1,35 @@
 {
-    "latest_version": "4.11.8",
+    "schema_version": 1,
+    "manifest_version": "1.0",
+    "release_id": "REL-20260712-193006",
+    "product": "obeetech_timer",
+    "product_name": "ObeeTech PC Timer",
+    "version": "4.11.7",
     "build": "20260712",
-    "channel": "Stable",
-    "release_date": "2026-07-12",
-    "package_name": "ObeeTech_Updater_4.11.8.zip",
-    "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.8/ObeeTech_Updater_4.11.8.zip",
-    "sha256": "82826ad3b464e84e9f9b8ccd1d5e11976abd7d0a78a1bc96e7205c865e6dd070",
-    "size_bytes": 77974557,
+    "channel": "stable",
+    "status": "repository_ready",
     "force_update": false,
-    "changelog": [
-        "test"
-    ],
-    "news": {
-        "title": "ObeeUpdater New Release",
-        "message": "This update improves the launcher and updater system."
-    }
+    "release_notes": "",
+    "repository": {
+        "relative_path": "timer/4.11.7",
+        "created_at": "2026-07-12 19:30:06"
+    },
+    "package": {
+        "file_name": "package.obpkg",
+        "relative_path": "package.obpkg",
+        "size_bytes": 127565586,
+        "sha256": "85dc0b96a4b36564e97ec8d8536bdae3b96cf08d31fd631741b57e0897f0b0c6"
+    },
+    "installer": {
+        "file_name": "ObeeTechPCTimer.exe",
+        "relative_path": "ObeeTechPCTimer.exe",
+        "size_bytes": 157040969,
+        "sha256": "db36227125a73a8a2df88892f687ca1b9ea30654044f18ae3446e44a0d5a4906"
+    },
+    "publish": {
+        "repository": true,
+        "firebase": false,
+        "website": false
+    },
+    "created_at": "2026-07-12 19:30:06"
 }
