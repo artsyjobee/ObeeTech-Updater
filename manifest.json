@@ -1,7 +1,7 @@
 {
     "schema_version": 1,
     "manifest_version": "1.0",
-    "release_id": "REL-20260712-193935",
+    "release_id": "REL-20260712-195122",
     "product": "obeetech_timer",
     "product_name": "ObeeTech PC Timer",
     "version": "4.11.7",
@@ -9,27 +9,27 @@
     "channel": "stable",
     "status": "repository_ready",
     "force_update": false,
-    "release_notes": "",
+    "release_notes": "Improve Pc Timer Stability\nFixed screenlock freezing\nImprove admin update fuction\nImprove updater stability\nAdd screenlock wallpaper effect\nupgrade pc timer to app  communication\nInhanced income record\nIntegrate Cloud manager  to pc timer",
     "repository": {
         "relative_path": "timer/4.11.7",
-        "created_at": "2026-07-12 19:39:35"
+        "created_at": "2026-07-12 19:51:22"
     },
     "package": {
         "file_name": "package.obpkg",
         "relative_path": "package.obpkg",
         "size_bytes": 127565586,
-        "sha256": "85dc0b96a4b36564e97ec8d8536bdae3b96cf08d31fd631741b57e0897f0b0c6"
+        "sha256": "c2952df07f2edf56d02d5437bc330dc9759eb2269de118aacaf0d4f79c08899d"
     },
     "installer": {
         "file_name": "ObeeTechPCTimer.exe",
         "relative_path": "ObeeTechPCTimer.exe",
-        "size_bytes": 157040969,
-        "sha256": "db36227125a73a8a2df88892f687ca1b9ea30654044f18ae3446e44a0d5a4906"
+        "size_bytes": 157041691,
+        "sha256": "155d527546e5611b2a301ea38be14af2fdbb895a89d527c1d13dcb1be3fb9085"
     },
     "publish": {
         "repository": true,
         "firebase": false,
         "website": false
     },
-    "created_at": "2026-07-12 19:39:35"
+    "created_at": "2026-07-12 19:51:22"
 }
