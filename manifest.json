@@ -1,16 +1,15 @@
 {
-    "latest_version": "4.11.7",
+    "latest_version": "4.11.8",
     "build": "20260712",
     "channel": "Stable",
     "release_date": "2026-07-12",
-    "package_name": "ObeeTech_Updater_4.11.7.zip",
-    "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.7/ObeeTech_Updater_4.11.7.zip",
-    "sha256": "de293d15b44a480a99b08e4ab9e7ed4c093e7fcf4c64015df888c53ce3384cc3",
+    "package_name": "ObeeTech_Updater_4.11.8.zip",
+    "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.8/ObeeTech_Updater_4.11.8.zip",
+    "sha256": "82826ad3b464e84e9f9b8ccd1d5e11976abd7d0a78a1bc96e7205c865e6dd070",
     "size_bytes": 77974557,
     "force_update": false,
     "changelog": [
-        "Improved updater stability",
-        "Added self-update package support"
+        "test"
     ],
     "news": {
         "title": "ObeeUpdater New Release",
