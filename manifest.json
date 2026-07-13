@@ -1,26 +1,35 @@
 {
-    "latest_version": "4.11.8",
+    "schema_version": 1,
+    "manifest_version": "1.0",
+    "release_id": "REL-20260713-120303",
+    "product": "obeetech_timer",
+    "product_name": "ObeeTech PC Timer",
+    "version": "5.0.0",
     "build": "20260713",
-    "channel": "Stable",
-    "release_date": "2026-07-13",
-    "package_name": "ObeeTech_Updater_4.11.8.zip",
-    "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.8/ObeeTech_Updater_4.11.8.zip",
-    "sha256": "3f3bd677fde024500850ceb687fffed674e64bb118522bed6aaf03c2364ebf11",
-    "size_bytes": 84726027,
+    "channel": "stable",
+    "status": "repository_ready",
     "force_update": false,
-    "changelog": [
-        "Improved updater stability",
-        "Improve adminpanel assets function",
-        "Improve adminpanel update function",
-        "Improve pc timer sensitivity",
-        "Improve screenlock functions",
-        "Improve screenlock wallpaper",
-        "Improve pc timer income monitoring",
-        "Upgrade pc timer income record to cloud",
-        "Upgrade pc timer to communicate with phone app"
-    ],
-    "news": {
-        "title": "ObeeUpdater New Release",
-        "message": "This update improves the launcher and updater system."
-    }
+    "release_notes": "",
+    "repository": {
+        "relative_path": "timer/5.0.0",
+        "created_at": "2026-07-13 12:03:03"
+    },
+    "package": {
+        "file_name": "package.obpkg",
+        "relative_path": "package.obpkg",
+        "size_bytes": 127565584,
+        "sha256": "1bfcc076af3fb5d88e01ac49dee26efba605a81aed9196767ecb088d4152cb51"
+    },
+    "installer": {
+        "file_name": "ObeeTechPCTimer.exe",
+        "relative_path": "ObeeTechPCTimer.exe",
+        "size_bytes": 157043087,
+        "sha256": "c931af30ab7f8525d06f181f71db88c29e0fde621e936c9b1d69ebac8d43a912"
+    },
+    "publish": {
+        "repository": true,
+        "firebase": false,
+        "website": false
+    },
+    "created_at": "2026-07-13 12:03:03"
 }
