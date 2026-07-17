@@ -5,11 +5,11 @@
   "channel": "Beta",
   "force_update": false,
   "apk_name": "ObeeTech_Owner_1.0.6_7.apk",
-  "apk_url": "",
+  "apk_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v1.0.6/ObeeTech_Owner_1.0.6_7.apk",
   "apk_size": "55.31 MB",
   "size_bytes": 57999325,
   "sha256": "sha256:05cb748f1aa71be03127898f67afe557c72a1090d2374fc5108590945d1929be",
   "release_notes": "Improve Dashboard adding promotional banner\nAdding app Store\nthe app can now add purchased additional pc",
   "published_by": "ObeeTech",
-  "updated_at": "2026-07-17 13:33:21"
+  "updated_at": "2026-07-17 13:34:28"
 }
