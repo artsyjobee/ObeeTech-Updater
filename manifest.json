@@ -1,26 +1,35 @@
 {
-    "latest_version": "4.11.8",
-    "build": "20260713",
-    "channel": "Stable",
-    "release_date": "2026-07-13",
-    "package_name": "ObeeTech_Updater_4.11.8.zip",
-    "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v4.11.8/ObeeTech_Updater_4.11.8.zip",
-    "sha256": "d82c6f4351859589f496a000bda053fe0499e370c41c3b4ec4cd770454ef5e18",
-    "size_bytes": 84726027,
+    "schema_version": 1,
+    "manifest_version": "1.0",
+    "release_id": "REL-20260816-205752",
+    "product": "obeetech_timer",
+    "product_name": "ObeeTech PC Timer",
+    "version": "5.0.1",
+    "build": "20260816",
+    "channel": "stable",
+    "status": "repository_ready",
     "force_update": false,
-    "changelog": [
-        "Improved updater stability",
-        "Improve adminpanel assets function",
-        "Improve adminpanel update function",
-        "Improve pc timer sensitivity",
-        "Improve screenlock functions",
-        "Improve screenlock wallpaper",
-        "Improve pc timer income monitoring",
-        "Upgrade pc timer income record to cloud",
-        "Upgrade pc timer to communicate with phone app"
-    ],
-    "news": {
-        "title": "ObeeUpdater New Release",
-        "message": "This update improves the launcher and updater system."
-    }
+    "release_notes": "Improved updater stability\nImprove adminpanel assets function\nImprove adminpanel update function\nImprove pc timer sensitivity\nImprove screenlock functions\nImprove screenlock wallpaper\nImprove pc timer income monitoring\nUpgrade pc timer income record to cloud\nUpgrade pc timer to communicate with phone app",
+    "repository": {
+        "relative_path": "timer/5.0.1",
+        "created_at": "2026-08-16 20:57:52"
+    },
+    "package": {
+        "file_name": "package.obpkg",
+        "relative_path": "package.obpkg",
+        "size_bytes": 138698970,
+        "sha256": "ea423a840735121c177f2db7470b7aa87d8b8f686c8b8d3b67e1c0ee3f4a678f"
+    },
+    "installer": {
+        "file_name": "ObeeTechPCTimer.exe",
+        "relative_path": "ObeeTechPCTimer.exe",
+        "size_bytes": 168177671,
+        "sha256": "f7f6fcd441976fd6893342dfda361619317430638dad6732d147fd201bd1337e"
+    },
+    "publish": {
+        "repository": true,
+        "firebase": false,
+        "website": false
+    },
+    "created_at": "2026-08-16 20:57:52"
 }
