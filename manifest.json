@@ -1,17 +1,16 @@
 {
-    "latest_version": "5.0.1",
-    "build": "20260818",
+    "latest_version": "5.0.2",
+    "build": "20260821",
     "channel": "Stable",
-    "release_date": "2026-08-18",
-    "package_name": "ObeeTech_Updater_5.0.1.zip",
-    "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v5.0.1/ObeeTech_Updater_5.0.1.zip",
-    "sha256": "431dd17d091fb174811e1c3182ec31e3ae0d3a89ffe8de1359a2616b03e0fc0a",
-    "size_bytes": 73407901,
+    "release_date": "2026-08-21",
+    "package_name": "ObeeTech_Updater_5.0.2.zip",
+    "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v5.0.2/ObeeTech_Updater_5.0.2.zip",
+    "sha256": "e896e0d0fb1ffd422548e34a0e4ee6fe8dcabf09f4b32eccfda71336204372a0",
+    "size_bytes": 75259684,
     "force_update": false,
     "changelog": [
-        "Improve popup timer skin",
-        "Improve timer to cloud sync",
-        "Improve timer consistency"
+        "Improve Screenlock Login Panel theme",
+        "Improve Client to Cloud Communication"
     ],
     "news": {
         "title": "ObeeUpdater New Release",
