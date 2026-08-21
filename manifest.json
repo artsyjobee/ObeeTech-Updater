@@ -5,12 +5,12 @@
     "release_date": "2026-08-21",
     "package_name": "ObeeTech_Updater_5.0.2.zip",
     "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v5.0.2/ObeeTech_Updater_5.0.2.zip",
-    "sha256": "e896e0d0fb1ffd422548e34a0e4ee6fe8dcabf09f4b32eccfda71336204372a0",
-    "size_bytes": 75259684,
+    "sha256": "22ee1eebce539b2e6068466c1dc2f4bedd98239fdd5e00a9ce338562edbec9e6",
+    "size_bytes": 86698259,
     "force_update": false,
     "changelog": [
-        "Improve Screenlock Login Panel theme",
-        "Improve Client to Cloud Communication"
+        "Improved updater stability",
+        "Added self-update package support"
     ],
     "news": {
         "title": "ObeeUpdater New Release",
