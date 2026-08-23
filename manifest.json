@@ -1,16 +1,15 @@
 {
-    "latest_version": "5.0.2",
-    "build": "20260821",
+    "latest_version": "5.0.3",
+    "build": "20260823",
     "channel": "Stable",
-    "release_date": "2026-08-21",
-    "package_name": "ObeeTech_Updater_5.0.2.zip",
-    "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v5.0.2/ObeeTech_Updater_5.0.2.zip",
-    "sha256": "379681d85a0ec471592c8759f12865b621e3885d6f6b070896d45cd853c0b2ad",
-    "size_bytes": 86698388,
+    "release_date": "2026-08-23",
+    "package_name": "ObeeTech_Updater_5.0.3.zip",
+    "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v5.0.3/ObeeTech_Updater_5.0.3.zip",
+    "sha256": "657e42208aab2139f391873ff69f08d5de016e54b06c04c862c76039201852b0",
+    "size_bytes": 86699451,
     "force_update": false,
     "changelog": [
-        "Improved updater stability",
-        "Added self-update package support"
+        "Improved updater stability"
     ],
     "news": {
         "title": "ObeeUpdater New Release",
