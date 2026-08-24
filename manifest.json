@@ -5,8 +5,8 @@
     "release_date": "2026-08-24",
     "package_name": "ObeeTech_Updater_5.0.4.zip",
     "download_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v5.0.4/ObeeTech_Updater_5.0.4.zip",
-    "sha256": "50329844777beb36f0a25b6e2e41d526d80c5ecb9e608e07afc430b189b9cf28",
-    "size_bytes": 86699450,
+    "sha256": "d506e25f3ed02062701354b6bcb66062c5e1e75c84fc3d364bba81949c348c9a",
+    "size_bytes": 86858456,
     "force_update": false,
     "changelog": [
         "Improved updater stability",
