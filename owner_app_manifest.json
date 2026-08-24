@@ -5,11 +5,11 @@
   "channel": "Stable",
   "force_update": false,
   "apk_name": "ObeeTech_Owner_1.0.11_12.apk",
-  "apk_url": "",
+  "apk_url": "https://github.com/artsyjobee/ObeeTech-Updater/releases/download/v1.0.11/ObeeTech_Owner_1.0.11_12.apk",
   "apk_size": "56.15 MB",
   "size_bytes": 58880797,
   "sha256": "sha256:5bce549da1e096d2b3d242df6332c78e3455b209c60991473f7dc22b19a835db",
   "release_notes": "",
   "published_by": "ObeeTech",
-  "updated_at": "2026-08-24 23:41:30"
+  "updated_at": "2026-08-24 23:42:36"
 }
